@@ -8,49 +8,120 @@
 
 Build software that solves meaningful problems and improves people's lives.
 
-Become an engineer whose value comes from engineering judgment, systems thinking, and execution—not from knowledge of a particular framework.
+Become an engineer whose value comes from engineering judgment, systems thinking, and the ability to continuously learn—not from expertise in any single language, framework, or technology.
+
+The destination is not a job title.
+
+The destination is becoming the kind of engineer who can confidently understand, design, build, and evolve software systems regardless of how technology changes.
 
 ---
 
-# Primary Mission
+# Long-Term Mission
 
-## Timeline
+Develop the knowledge, engineering habits, and practical experience required to design production-quality software and AI systems.
 
-4–6 Months
+Every phase of Project Builder should contribute toward one objective:
 
-## Goal
-
-Become industry-ready for an AI Architect role.
-
-The objective is to confidently design, build, test, deploy and maintain production-grade AI systems.
+> Becoming an engineer who can transform meaningful ideas into reliable software.
 
 ---
 
-# Success Criteria
+# Career Evolution
 
-## Engineering Foundations
+Project Builder follows a long-term progression.
+
+```text
+Builder
+      ↓
+Software Craftsman
+      ↓
+Software Engineer
+      ↓
+Senior Software Engineer
+      ↓
+AI Engineer
+      ↓
+AI Architect
+      ↓
+Engineering Leader
+```
+
+Each stage builds upon the previous one.
+
+Engineering maturity is viewed as continuous growth rather than a final destination.
+
+---
+
+# Learning Journey
+
+## Phase 1 — Learning Reality ✅
+
+Understand why software abstractions exist before learning their implementation.
+
+Major Outcomes
+
+- First-principles thinking
+- Variables
+- Data Types
+- Collections
+- Lists
+- Sets
+- Dictionaries
+- Objects
+- Classes
+
+---
+
+## Phase 2 — Building Software
+
+Transform understanding into implementation.
+
+Focus Areas
 
 - Python
-- Git
-- Linux
-- APIs
-- FastAPI
-- Databases
-- Docker
-- Kubernetes Fundamentals
-- CI/CD
-- Testing
-- System Design
+- Functions
+- Object-Oriented Programming
+- Modules
+- Packages
+- Error Handling
+- File Handling
+- Problem Solving
+- Software Design
+- Mini Projects
 
 ---
 
-## AI Engineering
+## Phase 3 — Engineering Systems
 
-- LLM Fundamentals
+Learn how professional software behaves at scale.
+
+Focus Areas
+
+- Algorithms
+- Advanced Data Structures
+- Databases
+- Networking
+- Linux
+- Docker
+- Kubernetes
+- CI/CD
+- Cloud Fundamentals
+- System Design
+- Distributed Systems
+
+---
+
+## Phase 4 — AI Engineering
+
+Apply engineering principles to modern AI systems.
+
+Focus Areas
+
+- LLM APIs
 - Prompt Engineering
 - Embeddings
 - Vector Databases
-- Retrieval Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG)
 - MCP
 - LangChain
 - LangGraph
@@ -62,74 +133,125 @@ The objective is to confidently design, build, test, deploy and maintain product
 
 ---
 
-## Portfolio
+## Phase 5 — AI Architecture
 
-Build high-quality public projects demonstrating:
+Design complete AI platforms.
 
-- Python Engineering
+Focus Areas
+
+- Enterprise Architecture
+- AI Platform Design
+- Large-Scale Agent Systems
+- Engineering Leadership
+- Open Source
+- Mentoring
+- Technical Strategy
+- Product Thinking
+
+---
+
+# Engineering Milestones
+
+Throughout the journey, the Builder should become proficient in:
+
+- Software Design
+- Clean Architecture
+- Testing
 - APIs
+- Backend Engineering
+- Performance
+- Reliability
+- Scalability
+- Observability
+- Security
+- Distributed Systems
+
+The goal is not to learn these topics independently, but to understand how they work together to build complete software systems.
+
+---
+
+# Portfolio Vision
+
+Build a public portfolio that demonstrates engineering thinking rather than tutorial completion.
+
+Projects should showcase:
+
+- Software Engineering
+- Backend Systems
 - AI Applications
-- Agentic AI
 - Automation
+- APIs
 - System Design
 - Testing
 - Production Readiness
 
 Every project should solve a meaningful problem.
 
-Quality is preferred over quantity.
+Quality is always preferred over quantity.
 
 ---
 
-## Open Source
+# Open Source Journey
 
-Become an active contributor to open-source projects.
+Become an active member of the open-source community.
 
-Goals:
+The objective is not simply to increase contribution counts.
 
-- Submit meaningful pull requests.
-- Fix bugs.
-- Improve documentation.
-- Add tests.
-- Implement small features.
-- Learn professional code reviews.
-- Build relationships within engineering communities.
+The objective is to learn how professional software is built collaboratively.
 
-The size of the contribution matters less than consistency.
+Areas of contribution include:
+
+- Documentation
+- Bug Fixes
+- Testing
+- Features
+- Refactoring
+- Reviews
+- Discussions
+
+Consistency matters more than contribution size.
 
 ---
 
-## Professional Presence
+# Professional Presence
 
-Develop a GitHub profile that demonstrates:
+Develop a GitHub profile that reflects engineering growth.
 
-- Clean commit history
-- Well-documented repositories
+The repository should demonstrate:
+
+- Clear engineering thinking
+- Clean Git history
+- Professional documentation
 - Meaningful projects
 - Open-source contributions
-- Professional documentation
-- Consistent engineering growth
+- Continuous improvement
 
-The GitHub profile should tell the story of an engineer who builds software deliberately.
+The GitHub profile should tell the story of an engineer becoming an architect.
 
 ---
 
-# Future Vision
+# Beyond the Roadmap
 
-After becoming an AI Architect:
+The roadmap does not end with becoming an AI Architect.
 
+Long-term aspirations include:
+
+- Build reusable AI platforms.
 - Build an AI Factory.
-- Design reusable AI platforms.
-- Contribute significantly to open source.
 - Mentor engineers.
+- Contribute significantly to open source.
 - Publish technical articles.
 - Speak at engineering conferences.
-- Build products used by thousands (and eventually millions) of users.
+- Build products used by thousands—and eventually millions—of people.
 - Continue learning throughout life.
+
+Engineering is a lifelong discipline.
 
 ---
 
 # Non-Negotiables
+
+The following principles should remain constant throughout the journey.
 
 - First principles before syntax.
 - Engineering before frameworks.
@@ -137,25 +259,33 @@ After becoming an AI Architect:
 - Projects over tutorials.
 - Documentation is part of the product.
 - Quality over speed.
-- Learn continuously.
+- Consistency over intensity.
+- Curiosity over certainty.
 - Give back to the engineering community.
+- Never stop asking "Why?"
 
 ---
 
 # Definition of Success
 
-Success is not measured by:
+Success is **not** measured by:
 
 - Number of certificates.
-- Number of frameworks learned.
 - Number of completed tutorials.
+- Number of frameworks learned.
+- Number of programming languages known.
 
-Success is measured by:
+Success **is** measured by:
 
 - Problems solved.
-- Systems built.
-- Engineers helped.
+- Systems designed.
+- Software built.
+- Engineers mentored.
 - Knowledge shared.
 - Open-source contributions.
 - Engineering judgment.
 - Long-term impact.
+
+The ultimate goal of Project Builder is not to produce someone who knows many technologies.
+
+It is to develop an engineer capable of understanding, building, and evolving software systems throughout an entire career.

@@ -2,52 +2,87 @@
 
 > Becoming an engineer who builds AI systems that matter.
 
-Project Builder documents one engineer's journey toward building software that solves meaningful problems.
+Project Builder documents one engineer's journey from software fundamentals to AI Architecture.
 
-It exists for curious minds who want to understand not only **what** to build, but **why** systems are designed the way they are.
+It exists for curious minds who want to understand not only **what** to build, but **why** software systems are designed the way they are.
 
-Rather than chasing technologies, this repository explores the engineering mindset, principles, trade-offs, and decisions that remain valuable long after today's tools have changed.
+Rather than chasing technologies, this repository explores engineering thinking, first principles, trade-offs, and design decisions that remain valuable long after today's frameworks have changed.
 
-If this repository makes another engineer's path a little clearer, then it has achieved its purpose.
+If this repository makes another engineer's learning journey a little clearer, then it has achieved its purpose.
 
 ---
 
 # Vision
 
-To become an engineer capable of designing, building, and maintaining software that creates meaningful impact.
+To become an engineer capable of designing, building, and maintaining software systems that create meaningful impact.
 
-The destination is not mastering a specific technology.
+The destination is not mastering a particular language, framework, or AI model.
 
-The destination is learning how to solve problems using sound engineering principles.
+The destination is developing engineering judgment—the ability to understand problems deeply, choose appropriate abstractions, and build software that remains valuable as technology evolves.
 
 ---
 
-# Why this repository exists
+# Why This Repository Exists
 
-Most learning resources teach **how** to use a framework or a language.
+Many learning resources teach **how** to use a language or framework.
 
-Project Builder focuses on something deeper:
+Project Builder focuses on something deeper.
 
-- How engineers think
-- Why systems are designed the way they are
-- How good software evolves over time
-- How to make engineering decisions based on first principles
+It documents:
 
-The goal is to shorten the learning journey for curious minds by documenting both successes and mistakes.
+- How engineers think.
+- Why software abstractions exist.
+- How systems evolve over time.
+- How engineering decisions are made.
+- How first principles outlive technologies.
+
+The goal is not simply to reach an AI Architect role.
+
+The goal is to become the kind of engineer who can continue learning long after today's technologies become tomorrow's history.
 
 ---
 
 # Engineering Philosophy
 
-Project Builder follows a few simple principles.
+Project Builder is built around a small set of timeless ideas.
 
 - Understand deeply before optimizing.
 - Build deliberately.
-- One commit should tell one story.
+- One commit should tell one logical story.
 - Code communicates intent.
 - Architecture is assigning responsibilities.
+- Every engineering decision should be explainable.
+- First principles outlive frameworks.
 - Don't chase technologies—solve meaningful problems.
 - Leave the next engineer better off than you were.
+
+---
+
+# Learning Philosophy
+
+Every concept in this repository is learned using the same progression.
+
+```text
+Reality
+    ↓
+Problem
+    ↓
+Need
+    ↓
+Abstraction
+    ↓
+Implementation
+    ↓
+Engineering Trade-offs
+    ↓
+Production Systems
+```
+
+Understanding always comes before implementation.
+
+Syntax is temporary.
+
+Engineering principles endure.
 
 ---
 
@@ -55,114 +90,100 @@ Project Builder follows a few simple principles.
 
 ## Engineering Mindset
 
-Learning to think like an engineer through first principles, trade-offs, software architecture, and systems thinking.
+Learning to think like an engineer through first principles, systems thinking, software design, trade-offs, and architectural reasoning.
 
 ---
 
 ## Software Craftsmanship
 
-Building strong foundations in Python, APIs, testing, databases, Docker, CI/CD, and software engineering best practices.
+Building strong foundations in Python, APIs, databases, testing, Docker, CI/CD, Kubernetes, and professional software engineering practices.
 
 ---
 
-## Agentic AI Engineering
+## AI Engineering
 
-Designing intelligent systems using LLMs, RAG, MCP, tool calling, LangGraph, multi-agent systems, evaluation, and production AI practices.
+Designing intelligent software systems using modern AI technologies including LLMs, RAG, MCP, LangChain, LangGraph, AI Agents, Multi-Agent Systems, evaluation, and production AI practices.
 
 ---
 
 ## Product Engineering
 
-Turning ideas into reliable software that people genuinely find useful.
+Turning ideas into software that solves meaningful real-world problems.
 
-Technology is only valuable when it solves real problems.
+Technology is valuable only when it improves people's lives.
 
 ---
 
 # Repository Structure
 
-```
+```text
 docs/
 journal/
 notes/
 projects/
 ```
 
-Projects inside this repository grow alongside the learning journey.
+Each directory has a single responsibility.
 
-Each project exists to solve a problem while reinforcing engineering principles.
+- **docs/** contains the living engineering documents that guide the apprenticeship.
+- **journal/** records milestones, discoveries, and reflections.
+- **notes/** captures concepts from first principles rather than language syntax.
+- **projects/** demonstrates the practical application of engineering ideas.
 
----
-
-# Current Status
-
-**Current Phase**
-
-🚧 Foundation
-
-Current focus:
-
-- Git
-- Python
-- Engineering Mindset
-- Software Design
-
-Upcoming:
-
-- APIs
-- FastAPI
-- Docker
-- Agentic AI
-- Production Systems
+The repository is intentionally organized around knowledge rather than technologies.
 
 ---
 
-# Roadmap
+# Repository Guide
 
-This repository is expected to evolve through several stages.
+The following documents describe different aspects of Project Builder.
 
-- Foundation
-- Software Engineering
-- Backend Development
-- AI Engineering
-- Agentic AI Systems
-- Distributed Systems
-- Product Engineering
+| Document | Purpose |
+|----------|---------|
+| `README.md` | Public introduction to Project Builder |
+| `docs/PROJECT_BUILDER_STATE.md` | Current state of the apprenticeship |
+| `docs/BUILDER_ROADMAP.md` | Long-term learning journey |
+| `docs/DIRECTOR_LOG.md` | Mentoring philosophy and assessments |
+| `BOOTCAMP_CHARTER.md` | Foundational charter of the project |
 
-Each phase builds upon the previous one.
+Each document has a single responsibility and serves as a source of truth for its respective area.
 
 ---
 
 # Learning in Public
 
-This repository intentionally documents progress over time.
+Project Builder intentionally documents progress over time.
 
-Early projects may be simple.
+Early projects may appear simple.
 
 Later projects will become significantly more sophisticated.
 
-The goal is not to appear experienced from Day One.
+The objective is not to appear experienced from the beginning.
 
-The goal is to demonstrate continuous improvement.
+The objective is to demonstrate continuous improvement through deliberate engineering practice.
+
+Mistakes, refactoring, documentation updates, and changing opinions are all considered valuable parts of the journey.
 
 ---
 
 # Contributions
 
-This repository is currently a personal engineering journey.
+Project Builder is currently a personal engineering apprenticeship.
 
-As it matures, contributions, discussions, and feedback will be welcomed.
+As the repository matures, discussions, suggestions, and meaningful contributions will be welcomed.
+
+The goal is to create resources that help engineers understand not only *how* software is built, but *why* good engineering decisions matter.
 
 ---
 
 # Final Thought
 
-> "We don't chase technologies.
+> **"We don't chase technologies.**
 >
-> We chase meaningful problems."
+> **We chase meaningful problems."**
 
-If reading this repository makes another curious mind think,
+Technology will continue to evolve.
 
-**"Why didn't I find this sooner?"**
+Engineering principles compound.
 
-then Project Builder has succeeded.
+If this repository helps even one curious engineer think more deeply about software, then Project Builder has accomplished its mission.
